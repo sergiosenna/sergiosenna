@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Sergio Luis
+Hi there 👋, My name is Sergio Luis
 Olá, seja bem-vindo (a)!
 
-Graduado em Sistemas de Informação, Especialista em Business Intelligence e Big Data, e com ótimos conhecimentos na área de Tecnologia, atuando na implantação de projetos de dados, planejamento, avaliação, execução, identificação e sustentação de sistemas.
+ Graduado em Sistemas de Informação, Especialista em Business Intelligence e Big Data, e com ótimos conhecimentos na área de Tecnologia, atuando na implantação de projetos de dados, planejamento, avaliação, execução, identificação e sustentação de sistemas.
 
 - Atuação no monitoramento do desempenho dos sistemas, identificação de possíveis melhorias e atualização regular dos softwares para garantir que estejam atualizados e seguros.
 
@@ -29,7 +29,7 @@ Graduado em Sistemas de Informação, Especialista em Business Intelligence e Bi
 
 - Profissional comprometido em expandir habilidades em Python.
 
-Estou aberto a novas oportunidades que me permitam aplicar minha experiência em análise de dados e suporte de sistemas, contribuindo para o crescimento e sucesso de uma organização. Se você está procurando um profissional proativo e dedicado, estou pronto para enfrentar novos desafios e agregar valor a sua equipe.
+🌱 Estou aberto a novas oportunidades que me permitam aplicar minha experiência em análise de dados e suporte de sistemas, contribuindo para o crescimento e sucesso de uma organização. Se você está procurando um profissional proativo e dedicado, estou pronto para enfrentar novos desafios e agregar valor a sua equipe.
 
 ### Conecte-se comigo
 
